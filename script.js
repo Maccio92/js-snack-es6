@@ -20,5 +20,4 @@ function getNewArray(array, min, max) {
     });
     return newArrayNumbers;
 }
-
 // console.log(numbers, newArrayNumbers);
